@@ -9,6 +9,8 @@ This project aims to segment customers of a retail mall based on their purchasin
 
 The project utilizes the "Mall Customer Segmentation Data" dataset, which contains the following columns:
 
+* **Link to Dataset:** [Mall Customer Segmentation Data on Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+
 * **CustomerID**: A unique identifier for each customer.
 * **Gender**: The gender of the customer (Male/Female).
 * **Age**: The age of the customer.
