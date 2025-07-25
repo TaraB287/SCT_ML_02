@@ -59,14 +59,14 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 The Elbow Method plot indicated that **5** is the optimal number of clusters for this dataset. After k=5, the drop in WCSS becomes marginal.
 
 *(You can insert your Elbow Method plot image here)*
-![Elbow Method Plot](image_b9b1d2.png)
+![Elbow Method Plot](elbowmethod.png)
 
 ### 2. Customer Segments Visualization
 
 The scatter plot below shows the five distinct customer segments. Each color represents a different cluster, and the red stars mark the cluster centroids.
 
 *(You can insert your Customer Segments plot image here)*
-![Customer Segments Plot](image_b9b211.png)
+![Customer Segments Plot](customersegment.png)
 
 ### 3. Customer Personas
 
@@ -84,3 +84,10 @@ Based on the cluster analysis, we can define five customer personas:
 ## Conclusion
 
 This project successfully segmented mall customers into five distinct groups using K-Means clustering. The identified personas provide valuable insights that can help the mall's marketing team to create tailored campaigns. For instance, "Prime Targets" (Cluster 2) can be targeted with luxury brand promotions, while "Cautious Shoppers" (Cluster 3) would be more receptive to discount and sale events. This data-driven approach allows for more effective marketing and a better overall customer experience.
+
+## Developed by
+
+**Tara Siddappa Busaraddi**
+
+* **GitHub**: [TaraB287](https://github.com/TaraB287)
+* **LinkedIn**: [tarabusaraddi](https://www.linkedin.com/in/tarabusaraddi)
