@@ -50,7 +50,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 2.  Place the `Mall_Customers.csv` file in the same directory as the Python script.
 3.  Run the Python script from your terminal or a Jupyter/Colab notebook:
     ```bash
-    python your_script_name.py
+    python MallCustomerSegmentation.ipynb
     ```
 
 
@@ -60,14 +60,14 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 The Elbow Method plot indicated that **5** is the optimal number of clusters for this dataset. After k=5, the drop in WCSS becomes marginal.
 
-*(You can insert your Elbow Method plot image here)*
+
 ![Elbow Method Plot](elbowmethod.png)
 
 ### 2. Customer Segments Visualization
 
 The scatter plot below shows the five distinct customer segments. Each color represents a different cluster, and the red stars mark the cluster centroids.
 
-*(You can insert your Customer Segments plot image here)*
+
 ![Customer Segments Plot](customersegment.png)
 
 ### 3. Customer Personas
